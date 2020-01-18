@@ -17,11 +17,12 @@ The script helps convert nested json to a csv file -
 
 Terminal:
 
+```
 YOURCOMPUTER:Python--json-to-normalized_csv user$ python3 -m venv venv
 YOURCOMPUTER:Python--json-to-normalized_csv user$ source venv/bin/activate
 (venv) YOURCOMPUTER:Python--json-to-normalized_csv user$ pip3 install -r requirements.txt
 (venv) YOURCOMPUTER:Python--json-to-normalized_csv user$ python3 json_normalized-csv_converter.py
-
+```
 
 ##### Example: #####
 

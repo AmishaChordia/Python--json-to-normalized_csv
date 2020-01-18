@@ -12,7 +12,7 @@ The script helps convert nested json to a csv file -
 ####Example:####
 
 Input: 
-
+```
 {
   "name":"John",
   "age":30,
@@ -22,7 +22,7 @@ Input:
     "car3":"Fiat"
   }
 }
-
+```
 
 Output:
 

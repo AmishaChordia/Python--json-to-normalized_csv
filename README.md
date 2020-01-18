@@ -1,6 +1,7 @@
-# Python--json-to-normalized_csv
-A python script that converts json to normalized csv
+# Python--nested_json-to-normalized_csv
+A python script that converts nested json to normalized csv
 
+### Description ###
 The script helps convert nested json to a csv file -
 
 * Normalizes the json
@@ -9,7 +10,7 @@ The script helps convert nested json to a csv file -
   * If yes, appends the new json data to existing csv columns without copying the header row again
   
   
-####Example:####
+##### Example: #####
 
 Input: 
 ```
